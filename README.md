@@ -32,7 +32,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/zhacker1999/zhacker
+git clone https://github.com/zhacker1999/zhacker_cam
 cd zhacker
 bash zhacker.sh
 ```
