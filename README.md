@@ -24,6 +24,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 </ul>
 
 # Installing and requirements
+Note:- if you are using ngrok in android Please enable hotspot Without Hotspot not work.
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
 ```
